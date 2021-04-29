@@ -20,8 +20,8 @@ __The Game Rules:__
 * Rock crushes Scissors
 
 __Features:__
-[x] Score counter
-[x] The score is changing color depending on winner (user/computer)
-[x] Each choice button has an explanatory image
-[x] Each choice button is highlighted depending on the result of the game (win/lost/tie)
-[x] Reset button
+- [x] Score counter
+- [x] The score is changing color depending on winner (user/computer)
+- [x] Each choice button has an explanatory image
+- [x] Each choice button is highlighted depending on the result of the game (win/lost/tie)
+- [x] Reset button
