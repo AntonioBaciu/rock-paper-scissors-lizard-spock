@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Rock Paper Scissors Lizard Spock</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Rock Paper Scissors Lizard Spock</h1>
+    </header>
+
+    <section>
+      <div class="score-board">
+        <div id="userLabel" class="badge">user</div>
+        <div id="compLabel" class="badge">comp</div>
+        <span id="userScore">0</span>:<span id="compScore">0</span>
+      </div>
+
+      <div class="battle">
+        <span id="user">USER</span> vs <span id="comp">COMP</span>
+      </div>
+
+      <div class="result">
+        <p>Time To Play!</p>
+      </div>
+
+      <div class="choices">
+        <div class="choice" id="rock">
+          <img id="rocki" src="img/rock.png" alt="rock" />
+        </div>
+        <div class="choice" id="paper">
+          <img id="paperi" src="img/paper.png" alt="paper" />
+        </div>
+        <div class="choice" id="scissors">
+          <img id="scissorsi" src="img/scissors.png" alt="scissors" />
+        </div>
+        <div class="choice" id="lizard">
+          <img id="lizardi" src="img/lizard.png" alt="lizard" />
+        </div>
+        <div class="choice" id="spock">
+          <img id="spocki" src="img/spock.png" alt="spock" />
+        </div>
+      </div>
+
+      <p id="message">Make Your Move!</p>
+      <script src="script.js" charset="utf-8"></script>
+      <script src="script.js"></script>
+
+      <div class="btn-wrap">
+        <button class="reset-btn" onClick="resetScore()">RESET</button>
+      </div>
+    </section>
+  </body>
+</html>
