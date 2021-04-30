@@ -3,7 +3,7 @@
 ![](img/game-preview.png)
 
 # Short introduction:
--- [Rock Paper Scissors Lizard Spock] -- is an interpretation under the form of a simple browser game 
+__Rock Paper Scissors Lizard Spock__ is an interpretation under the form of a simple browser game 
 wich has additional rules inspired form an episode of the famous series "The Big Bang Theory".
 
 __The Game Rules:__
