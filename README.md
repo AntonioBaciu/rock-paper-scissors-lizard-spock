@@ -2,7 +2,7 @@
 # Website [LINK](https://antoniobaciu.github.io/rock-paper-scissors-lizard-spock/)
 ![](img/game-preview.png)
 
-Short introduction:
+# Short introduction:
 [Rock Paper Scissors Lizard Spock] is an interpretation under the form of a simple browser game 
 wich has additional rules inspired form an episode of the famous series "The Big Bang Theory".
 
