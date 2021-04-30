@@ -1,5 +1,5 @@
-# rock-paper-scissors-lizard-spock
-Website [LINK](https://antoniobaciu.github.io/rock-paper-scissors-lizard-spock/)
+# Title: Rock Paper Scissors Lizard Spock
+# Website [LINK](https://antoniobaciu.github.io/rock-paper-scissors-lizard-spock/)
 ![](img/game-preview.png)
 
 Short introduction:
